@@ -1,0 +1,5 @@
+login with email and password
+login with mobile number on etime password
+login with MFA
+login with facial recognisation
+login with fingerprint 
